@@ -26,7 +26,7 @@ in which students will work through exercises using RStudio Cloud (a web-based d
 * By completing this course students will:
   * understand the logic behind social science research applied to Communication
   * be able to view research with a critical eye
-  * be familar with some of the key methods used in quantitative research in Communication
+  * have hands-on experience of some of the key methods used in quantitative research in Communication
   * gain a basic level of programming proficiency in the R programming language and have completed a number of programming exercises to clean, analyze, visualize and interpret data
   * understand and have practiced the use of basic descriptive and inferential statistic methods
 
@@ -43,7 +43,7 @@ in which students will work through exercises using RStudio Cloud (a web-based d
 
 
 * Two small group mini projects (40%)
-  * These projects will give you a chance gain hands-on experience using two of the Communication research methods we will coverin the lectures and readings.
+  * These projects will give you a chance gain hands-on experience using two of the Communication research methods we will cover in the lectures and readings.  
     1. Content Analysis (20%)
     2. Survey measure and analysis (20%)
   * More details will be provided as the course progresses.
@@ -60,8 +60,8 @@ in which students will work through exercises using RStudio Cloud (a web-based d
 2. Wickham, H. and Grolemund. G. (2017) *R for Data Science*. O'Reilly Media.
 (Available online: https://r4ds.had.co.nz/index.html)
     * We will use parts of this book in the lab sessions for learning to use R. The book focuses on using `ggplot` for visualization and the `tidyverse` libraries for data analysis, just as we will.
-    * There is more advanced material in the book that we won't be able to cover but it well worth spending some time trying some of the exercises throughout the chapters.
-  - This book is referenced as __W&G__ in the schedule below.<br/><br/>
+    * There is more advanced material in the book that we won't be able to cover but it is well worth spending some time trying some of the exercises throughout the chapters.
+    * This book is referenced as __W&G__ in the schedule below.<br/><br/>
 
 #### Recommended
 
