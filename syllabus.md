@@ -54,13 +54,13 @@ in which students will work through exercises using RStudio Cloud (a web-based d
 #### Textbooks
 
 1. Scharrer, E. and Ramasubramanian, S. (2021) *Quantitative Research Methods in Communication: The Power of Numbers for Social Justice*. Routledge (Available online through the library)
-  - There will be weekly readings from this book aligned with the topics for the lectures. The quizes will be primarily based on the content of these readings.
-  - This book is referenced as __S&R__ in the schedule below.<br/><br/>
+   * There will be weekly readings from this book aligned with the topics for the lectures. The quizes will be primarily based on the content of these readings.
+   * This book is referenced as __S&R__ in the schedule below.<br/><br/>
 
 2. Wickham, H. and Grolemund. G. (2017) *R for Data Science*. O'Reilly Media.
 (Available online: https://r4ds.had.co.nz/index.html)
-  - We will use parts of this book in the lab sessions for learning to use R. The book focuses on using `ggplot` for visualization and the `tidyverse` libraries for data analysis, just as we will.
-  - There is more advanced material in the book that we won't be able to cover but it well worth spending some time trying some of the exercises throughout the chapters.
+    * We will use parts of this book in the lab sessions for learning to use R. The book focuses on using `ggplot` for visualization and the `tidyverse` libraries for data analysis, just as we will.
+    * There is more advanced material in the book that we won't be able to cover but it well worth spending some time trying some of the exercises throughout the chapters.
   - This book is referenced as __W&G__ in the schedule below.<br/><br/>
 
 #### Recommended
