@@ -6,11 +6,11 @@
 
 #### Monday/Wednesday 12.00-1.30pm
 
-#### Professor: Matt O'Donnell he/him/his)
+#### Professor: Matt O'Donnell (he/him/his)
 * Email: mbod@asc.upenn.edu
 * Office Hours: via Zoom (see link in Canvas)
 
-#### TA: Alex Tolkin
+#### TA: Alex Tolkin (he/him/his)
 * Email: alex.tolkin@asc.upenn.edu
 * Office Hours: via Zoom (see link in Canvas)
 
