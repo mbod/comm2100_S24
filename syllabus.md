@@ -28,14 +28,14 @@ in which students will work through exercises using RStudio Cloud (a web-based d
   * be able to view research with a critical eye
   * have hands-on experience of some of the key methods used in quantitative research in Communication
   * gain a basic level of programming proficiency in the R programming language and have completed a number of programming exercises to clean, analyze, visualize and interpret data
-  * understand and have practiced the use of basic descriptive and inferential statistic methods
+  * understand and have practiced the use of basic descriptive and inferential statistical methods
 
 
 
 ## Assessment
 
-* Quizes (20%)
-  * Most weeks there will be a short quiz related to the lecture and readings for the week. The quiz will be availahle in Canvas.
+* Quizzes (20%)
+  * Most weeks there will be a short quiz related to the lecture and readings for the week. The quiz will be available in Canvas.
 
 
 * Lab Assignments (40%)
@@ -54,7 +54,7 @@ in which students will work through exercises using RStudio Cloud (a web-based d
 #### Textbooks
 
 1. Scharrer, E. and Ramasubramanian, S. (2021) *Quantitative Research Methods in Communication: The Power of Numbers for Social Justice*. Routledge (Available online through the library)
-   * There will be weekly readings from this book aligned with the topics for the lectures. The quizes will be primarily based on the content of these readings.
+   * There will be weekly readings from this book aligned with the topics for the lectures. The quizzes will be primarily based on the content of these readings.
    * This book is referenced as __S&R__ in the schedule below.<br/><br/>
 
 2. Wickham, H. and Grolemund. G. (2017) *R for Data Science*. O'Reilly Media.
@@ -81,6 +81,9 @@ A Hands-On Approach_ Oxford University Press (4th ed.)
 
 One of the aims of this class is to help students begin to develop data analysis and programming skills that they can use as a part of carrying out research. But like learning any new skill, such as a new spoken language, it takes time and can be frustrating at first. This course does not require students to have any programming background. Realistically it is not possible to become a fully proficient programmer in just one semester. However, the lab sessions and assignments are focused on helping you begin this process and to become comfortable with reading, understanding and modifying R code examples that you can find on the web etc.
 
+
+
+-----
 
 ### Schedule
 
