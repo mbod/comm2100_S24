@@ -9,6 +9,10 @@
 #### Professor: Matt O'Donnell (he/him/his)
 * Email: mbod@asc.upenn.edu
 * Office Hours: via Zoom (see link in Canvas)
+  * Usually:
+    * Thursday 3-4pm
+    * Friday 2-4pm
+  * But this may vary and I will always try and be available for appointments outside these times if you email with sufficient notice.
 
 #### TA: Alex Tolkin (he/him/his)
 * Email: alex.tolkin@asc.upenn.edu
@@ -76,6 +80,7 @@ A Hands-On Approach_ Oxford University Press (4th ed.)
   1. _Data Literacy Fundamentals: Understanding the Power & Value of Data_
   2. _Learning to See Data: How to Interpret the Visual Language of Charts_
 
+* Salganik, M.J. (2017) _Bit by Bit: Social Research in the Digital Age_. Princeton, NJ: Princeton University Press. Available online: https://www.bitbybitbook.com/en/1st-ed/preface/
 
 ## Note about learning programming
 
