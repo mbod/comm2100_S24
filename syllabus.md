@@ -11,7 +11,7 @@
 * Office Hours: via Zoom (see link in Canvas)
   * Usually:
     * Thursday 3-4pm
-    * Friday 2-4pm
+    * Friday 2-3pm
   * But this may vary and I will always try and be available for appointments outside these times if you email with sufficient notice.
 
 #### TA: Alex Tolkin (he/him/his)
@@ -45,7 +45,7 @@ in which students will work through exercises using RStudio Cloud (a web-based d
 
 
 * Lab Assignments (40%)
-  * Weekly lab sessions will focus on learning to use R for data and statistical analysis and will include questions to complete and submit by Friday 11.59pm the same week.
+  * Weekly lab sessions will focus on learning to use R for data and statistical analysis and will include questions to complete and submit by Sunday 11.59pm the same week.
 
 
 * Two small group mini projects (40%)
@@ -130,7 +130,7 @@ One of the aims of this class is to help students begin to develop data analysis
   * The basics of plotting with `ggplot`
   * Reading: W&G Chapter 3
     * https://r4ds.had.co.nz/data-visualisation.html
-* **Fri 02/04/22 11.59pm - Quiz 3 Due** - Submit in Canvas
+* **Fri 02/04/22 11.59pm - Quiz 3a Due** - Submit in Canvas
 * **Sun 02/06/22 11.59pm - Assignment 2 Due** - Submit in Canvas
 
 #### Week 5: Measurement  (2)
@@ -142,7 +142,7 @@ One of the aims of this class is to help students begin to develop data analysis
     * https://r4ds.had.co.nz/transform.html
     * https://r4ds.had.co.nz/exploratory-data-analysis.html
     * https://r4ds.had.co.nz/factors.html
-* **Fri 02/11/22 11.59pm - Quiz 4 Due** - Submit in Canvas
+* **Fri 02/11/22 11.59pm - Quiz 3b Due** - Submit in Canvas
 * **Sun 02/13/22 11.59pm - Assignment 3 Due** - Submit in Canvas
 
 #### Week 6: Sampling
@@ -152,7 +152,7 @@ One of the aims of this class is to help students begin to develop data analysis
   * Reading W&G: Chapters 5 & 7
     * https://r4ds.had.co.nz/transform.html
     * https://r4ds.had.co.nz/exploratory-data-analysis.html
-* **Fri 02/18/22 11.59pm - Quiz 5 Due** - Submit in Canvas
+* **Fri 02/18/22 11.59pm - Quiz 4 Due** - Submit in Canvas
 * **Sun 02/20/22 11.59pm - Assignment 4 Due** - Submit in Canvas
 
 
@@ -165,7 +165,7 @@ One of the aims of this class is to help students begin to develop data analysis
     * https://r4ds.had.co.nz/program-intro.html
     * https://r4ds.had.co.nz/pipes.html
   * Working on survey mini project
-* **Fri 02/25/22 11.59pm - Quiz 6 Due** - Submit in Canvas
+* **Fri 02/25/22 11.59pm - Quiz 5 Due** - Submit in Canvas
 * **Sun 02/27/22 11.59pm - Assignment 5 Due** - Submit in Canvas
 
 #### Week 8: Using Surveys (2)
