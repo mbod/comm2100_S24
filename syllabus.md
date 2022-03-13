@@ -178,7 +178,7 @@ One of the aims of this class is to help students begin to develop data analysis
     * https://r4ds.had.co.nz/pipes.html
   * Working on survey mini project
 * **NO QUIZ THIS WEEK**
-* **Fri 03/04/22 11.59pm - Assignment 6 Due** - Submit in Canvas
+* **Fri 03/04/22 11.59pm - Survey Measures Assignment (Part 1) Due** - Submit in Canvas
 
 #### SPRING BREAK  
 * 03/5/22-03/13/22
@@ -190,7 +190,8 @@ One of the aims of this class is to help students begin to develop data analysis
   * Reading W&G Chapters 7 & 28
     * https://r4ds.had.co.nz/exploratory-data-analysis.html
     * https://r4ds.had.co.nz/graphics-for-communication.html
-   * Working on content analysis mini project
+* **Fri 03/18/22 11.59pm - Quiz 6 Due** - Submit in Canvas
+* **Sun 02/27/22 11.59pm - Assignment 6 Due** - Submit in Canvas
 
 #### Week 10 Content Analysis (2)
 * **Mon 03/21/22** Lecture: Content analysis
@@ -200,29 +201,43 @@ One of the aims of this class is to help students begin to develop data analysis
     * https://r4ds.had.co.nz/exploratory-data-analysis.html
     * https://r4ds.had.co.nz/graphics-for-communication.html
   * Working on content analysis mini project
+* **NO QUIZ THIS WEEK**
+* **Fri 03/25/22 11.59pm - Content Assignment (Part 1) Due** - Submit in Canvas
+
 
 #### Week 11: Using experiments
 * **Mon 03/28/22** Lecture: Experimental design
   * Readings S&R Chapter 6
-* **Wed 03/30/22** Lab session:
+* **Wed 03/30/22** Lab session: Working with experimental data
+* **Fri 04/01/22 11.59pm - Quiz 7 Due** - Submit in Canvas
+* **Sun 04/03/22 11.59pm - Assignment 7 Due** - Submit in Canvas
+
 
 #### Week 12:  Calculation and Statistics Overview
 * **Mon 04/04/22** Lecture: Types of stastics,  Hypothesis testing and types of error
   * Readings S&R Chapter 8 (pp. 182-194)
 * **Wed 04/06/22** Lab session: Descriptive statistics and intro to models
   * Readings S&R Chapter 9 (pp. 201-225)
+* **Fri 04/08/22 11.59pm - Quiz 8 Due** - Submit in Canvas
+* **Sun 04/10/22 11.59pm - Assignment 8 Due** - Submit in Canvas
+
 
 #### Week 13 Making inferences
 * **Mon 04/11/22** Lecture: Inferential statistics and thinking about correlation and causation
   * Readings S&R Chapter 8 (pp. 195-202)
 * **Wed 04/13/22** Lab session: Inferential statistics
   * Readings S&R Chapter 9 (pp. 226-275)
+* **Fri 04/15/22 11.59pm - Quiz 9 Due** - Submit in Canvas
+* **Sun 04/17/22 11.59pm - Assignment 9 Due** - Submit in Canvas
+
 
 #### Week 14 Data analysis
 * **Mon 04/18/22** Lab session: Working on data analysis from survey mini project
 * **Wed 04/20/22** Lab session: Working on data analysis from content analysis mini project
+* **Sun 04/10/22 11.59pm - Survey Measures Assignment (Part 2) Due** - Submit in Canvas
 
 #### Week 15 Wrapping things up
 * **Mon 04/25/22** Lecture: Community based research
   * Readings S&R Chapter 11
 * **Wed 04/27/22** Lab session: Using RMarkdown for reporting research
+* **Sun 04/10/22 11.59pm - Content Analysis Assignment (Part 2) Due** - Submit in Canvas
