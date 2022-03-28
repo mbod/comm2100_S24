@@ -191,7 +191,7 @@ One of the aims of this class is to help students begin to develop data analysis
     * https://r4ds.had.co.nz/exploratory-data-analysis.html
     * https://r4ds.had.co.nz/graphics-for-communication.html
 * **Fri 03/18/22 11.59pm - Quiz 6 Due** - Submit in Canvas
-* **Sun 02/27/22 11.59pm - Assignment 6 Due** - Submit in Canvas
+* **Sun 03/20/22 11.59pm - Assignment 6 Due** - Submit in Canvas
 
 #### Week 10 Content Analysis (2)
 * **Mon 03/21/22** Lecture: Content analysis
@@ -202,7 +202,6 @@ One of the aims of this class is to help students begin to develop data analysis
     * https://r4ds.had.co.nz/graphics-for-communication.html
   * Working on content analysis mini project
 * **NO QUIZ THIS WEEK**
-* **Fri 03/25/22 11.59pm - Content Assignment (Part 1) Due** - Submit in Canvas
 
 
 #### Week 11: Using experiments
@@ -210,6 +209,8 @@ One of the aims of this class is to help students begin to develop data analysis
   * Readings S&R Chapter 6
 * **Wed 03/30/22** Lab session: Working with experimental data
 * **Fri 04/01/22 11.59pm - Quiz 7 Due** - Submit in Canvas
+* **Fri 04/01/22 11.59pm - Group Project Content Assignment (Part 1) Due** 
+- Submit in Canvas
 * **Sun 04/03/22 11.59pm - Assignment 7 Due** - Submit in Canvas
 
 
