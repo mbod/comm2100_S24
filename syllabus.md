@@ -211,7 +211,6 @@ One of the aims of this class is to help students begin to develop data analysis
 * **Fri 04/01/22 11.59pm - Quiz 7 Due** - Submit in Canvas
 * **Fri 04/01/22 11.59pm - Group Project Content Assignment (Part 1) Due** 
 - Submit in Canvas
-* **Sun 04/03/22 11.59pm - Assignment 7 Due** - Submit in Canvas
 
 
 #### Week 12:  Calculation and Statistics Overview
@@ -220,7 +219,7 @@ One of the aims of this class is to help students begin to develop data analysis
 * **Wed 04/06/22** Lab session: Descriptive statistics and intro to models
   * Readings S&R Chapter 9 (pp. 201-225)
 * **Fri 04/08/22 11.59pm - Quiz 8 Due** - Submit in Canvas
-* **Sun 04/10/22 11.59pm - Assignment 8 Due** - Submit in Canvas
+* **Sun 04/10/22 11.59pm - Assignment 7 Due** - Submit in Canvas
 
 
 #### Week 13 Making inferences
@@ -229,7 +228,7 @@ One of the aims of this class is to help students begin to develop data analysis
 * **Wed 04/13/22** Lab session: Inferential statistics
   * Readings S&R Chapter 9 (pp. 226-275)
 * **Fri 04/15/22 11.59pm - Quiz 9 Due** - Submit in Canvas
-* **Sun 04/17/22 11.59pm - Assignment 9 Due** - Submit in Canvas
+* **Sun 04/17/22 11.59pm - Assignment 8 Due** - Submit in Canvas
 
 
 #### Week 14 Data analysis
