@@ -232,12 +232,16 @@ One of the aims of this class is to help students begin to develop data analysis
 
 
 #### Week 14 Data analysis
-* **Mon 04/18/22** Lab session: Working on data analysis from survey mini project
-* **Wed 04/20/22** Lab session: Working on data analysis from content analysis mini project
-* **Sun 04/10/22 11.59pm - Survey Measures Assignment (Part 2) Due** - Submit in Canvas
+* **Mon 04/18/22** Lab session: Working on data analysis from content analysis mini project
+* **Wed 04/20/22** Lab session: Working on data analysis from survey mini project
 
 #### Week 15 Wrapping things up
 * **Mon 04/25/22** Lecture: Community based research
   * Readings S&R Chapter 11
 * **Wed 04/27/22** Lab session: Using RMarkdown for reporting research
-* **Sun 04/10/22 11.59pm - Content Analysis Assignment (Part 2) Due** - Submit in Canvas
+
+### Project Due Dates
+
+* **Sun 05/1/22 11.59pm - Content Analysis Assignment (Part 2) Due** - Submit in Canvas
+* **Sun 05/8/22 11.59pm - Survey Measures Assignment (Part 2) Due** - Submit in Canvas
+
