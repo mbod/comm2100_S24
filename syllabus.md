@@ -242,6 +242,6 @@ One of the aims of this class is to help students begin to develop data analysis
 
 ### Project Due Dates
 
-* **Sun 05/1/22 11.59pm - Content Analysis Assignment (Part 2) Due** - Submit in Canvas
-* **Sun 05/8/22 11.59pm - Survey Measures Assignment (Part 2) Due** - Submit in Canvas
+* **Sun 05/8/22 11.59pm - Content Analysis Assignment (Part 2) Due** - Submit in 
+Canvas
 
