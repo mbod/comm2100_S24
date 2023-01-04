@@ -1,23 +1,26 @@
 
 
-## COMM 210 Quantitative Research Methods in Communication
+## COMM 2100 Quantitative Research Methods in Communication
 
-### Spring 2022
+### Spring 2023
 
 #### Monday/Wednesday 12.00-1.30pm
 
 #### Professor: Matt O'Donnell (he/him/his)
 * Email: mbod@asc.upenn.edu
 * Office Hours: via Zoom (see link in Canvas)
-  * Usually:
-    * Thursday 3-4pm
-    * Friday 2-3pm
-  * But this may vary and I will always try and be available for appointments outside these times if you email with sufficient notice.
+	* Specfic times TBA
+		* But this may vary and I will always try and be available for appointments outside these times if you email with sufficient notice.
 
-#### TA: Alex Tolkin (he/him/his)
-* Email: alex.tolkin@asc.upenn.edu
-* Office Hours: via Zoom (http://upenn.zoom.us/my/alextolkin)
-  * Thursdays 12-1:30pm
+ 
+----
+
+## IMPORTANT NOTICE - <u>Masks are required in this class</u>
+* Please make sure you are wearing a face mask fully covering both mouth and nose _before_ you enter the classroom and keep it in place _at all times_.
+* Make sure you have a "properly-fitting, high-quality mask (preferably a surgical mask, KN95/KF94, N95, or [EHRS-recommended Aries mask](https://ehrs.upenn.edu/covid-19/universal-mask-and-cloth-face-covering-precautions) as opposed to a single layer cloth mask)." (UPenn Public Health Guidance).
+
+----
+
 
 
 ## Course Description, Goals and Objectives
@@ -27,7 +30,7 @@
 * Course activities will include lectures, class exercises, reading published scientific articles, using  statistical software (R), and discussing research featured in the news.
 
 * Each week one session will be in lecture form and provide background for the theory and methods and the second will be a lab session
-in which students will work through exercises using RStudio Cloud (a web-based data analysis and programming environment).
+in which students will work through exercises using the R programming language (we will use a web-based data analysis and programming environment called JuypterHub to do this).
 
 * By completing this course students will:
   * understand the logic behind social science research applied to Communication
@@ -97,106 +100,106 @@ One of the aims of this class is to help students begin to develop data analysis
 **NOTE: This is a tentative schedule that will change as the course gets started**
 
 #### Week 1: Course Introduction
-* **Wed 01/12/22**
+* **Wed 01/11/23**
   * Course Overview
-  * Setting up RStudio
+  * Setting up JupyterHub and RStudio
 
 #### Week 2: Overview of Social Science research
-* **Mon 01/17/22** - NO CLASS (MLK, Jr. Day)
-* **Wed 01/19/22**
+* **Mon 01/16/23** - NO CLASS (MLK, Jr. Day)
+* **Wed 01/18/23**
   * Purpose of research
   * Using numbers for social justice
   * Quantitative approach to research
   * Reading: S&R Chapter 1
-* **Fri 01/21/22 11.59pm - Quiz 1 Due** - Submit in Canvas
+* **Fri 01/20/23 11.59pm - Quiz 1 Due** - Submit in Canvas
 
 #### Week 3: Ethics and Social Science Research
-* **Mon 01/24/22** Lecture: Ethics and research
+* **Mon 01/23/23** Lecture: Ethics and research
   * Reading: S&R Chapter 2
-* **Wed 01/26/22** Lab Session
+* **Wed 01/25/23** Lab Session
   * Using RMarkdown to create documents
   * Reading W&G Chapters 4, 27 & 29
     * https://r4ds.had.co.nz/workflow-basics.html
     * https://r4ds.had.co.nz/r-markdown.html
     * https://r4ds.had.co.nz/r-markdown-formats.html
-* **Fri 01/27/22 11.59pm - Quiz 2 Due** - Submit in Canvas
-* **Sun 01/29/22 11.59pm - Assignment 1 Due** - Submit in Canvas
+* **Fri 01/27/23 11.59pm - Quiz 2 Due** - Submit in Canvas
+* **Sun 01/29/23 11.59pm - Assignment 1 Due** - Submit in Canvas
 
 
 #### Week 4: Measurement (1)
-* **Mon 01/31/22** Lecture: Operationalization
+* **Mon 01/30/23** Lecture: Operationalization
   * Reading: S&R Chapter 3 (pp. 47-54)
-* **Wed 02/02/22** Lab session
+* **Wed 02/01/23** Lab session
   * The basics of plotting with `ggplot`
   * Reading: W&G Chapter 3
     * https://r4ds.had.co.nz/data-visualisation.html
-* **Fri 02/04/22 11.59pm - Quiz 3a Due** - Submit in Canvas
-* **Sun 02/06/22 11.59pm - Assignment 2 Due** - Submit in Canvas
+* **Fri 02/03/23 11.59pm - Quiz 3a Due** - Submit in Canvas
+* **Sun 02/05/23 11.59pm - Assignment 2 Due** - Submit in Canvas
 
 #### Week 5: Measurement  (2)
-* **Mon 02/07/22** Lecture: Measurement, Validity & Reliability
+* **Mon 02/06/23** Lecture: Measurement, Validity & Reliability
   * Reading: S&R Chapter 3 (pp. 55-72)
-* **Wed 02/09/22** Lab session
+* **Wed 02/08/23** Lab session
   * Data frames, variable types and visualization
   * Reading: W&G Chapters 5, 7 & 15
     * https://r4ds.had.co.nz/transform.html
     * https://r4ds.had.co.nz/exploratory-data-analysis.html
     * https://r4ds.had.co.nz/factors.html
-* **Fri 02/11/22 11.59pm - Quiz 3b Due** - Submit in Canvas
-* **Sun 02/13/22 11.59pm - Assignment 3 Due** - Submit in Canvas
+* **Fri 02/10/23 11.59pm - Quiz 3b Due** - Submit in Canvas
+* **Sun 02/12/23 11.59pm - Assignment 3 Due** - Submit in Canvas
 
 #### Week 6: Sampling
-* **Mon 02/14/22** Lecture: Sampling
+* **Mon 02/13/23** Lecture: Sampling
   * Reading: S&R Chapter 4
-* **Wed 02/16/22** Lab session: Selecting and sampling from a data frame
+* **Wed 02/15/23** Lab session: Selecting and sampling from a data frame
   * Reading W&G: Chapters 5 & 7
     * https://r4ds.had.co.nz/transform.html
     * https://r4ds.had.co.nz/exploratory-data-analysis.html
-* **Fri 02/18/22 11.59pm - Quiz 4 Due** - Submit in Canvas
-* **Sun 02/20/22 11.59pm - Assignment 4 Due** - Submit in Canvas
+* **Fri 02/17/23 11.59pm - Quiz 4 Due** - Submit in Canvas
+* **Sun 02/19/23 11.59pm - Assignment 4 Due** - Submit in Canvas
 
 
 #### Week 7: Using Surveys (1)
-* **Mon 02/21/22** Lecture: Using surveys
+* **Mon 02/20/23** Lecture: Using surveys
   * Reading: S&R Chapter 5
-* **Wed 02/23/22** Lab session: Lab session: Inspecting, cleaning and summarizing data
+* **Wed 02/22/23** Lab session: Lab session: Inspecting, cleaning and summarizing data
   * Reading: W&G Chapters 7, 17 & 18
     * https://r4ds.had.co.nz/exploratory-data-analysis.html
     * https://r4ds.had.co.nz/program-intro.html
     * https://r4ds.had.co.nz/pipes.html
   * Working on survey mini project
-* **Fri 02/25/22 11.59pm - Quiz 5 Due** - Submit in Canvas
-* **Sun 02/27/22 11.59pm - Assignment 5 Due** - Submit in Canvas
+* **Fri 02/24/23 11.59pm - Quiz 5 Due** - Submit in Canvas
+* **Sun 02/26/23 11.59pm - Assignment 5 Due** - Submit in Canvas
 
 #### Week 8: Using Surveys (2)
-* **Mon 02/28/22** Lecture: Using surveys
+* **Mon 02/27/23** Lecture: Using surveys
   * Reading: S&R Chapter 5
-* **Wed 03/02/22** Lab session: Summarizing data
+* **Wed 03/01/23** Lab session: Summarizing data
   * Reading: W&G Chapters 7, 17 & 18
     * https://r4ds.had.co.nz/exploratory-data-analysis.html
     * https://r4ds.had.co.nz/program-intro.html
     * https://r4ds.had.co.nz/pipes.html
   * Working on survey mini project
 * **NO QUIZ THIS WEEK**
-* **Fri 03/04/22 11.59pm - Survey Measures Assignment (Part 1) Due** - Submit in Canvas
+* **Fri 03/03/23 11.59pm - Survey Measures Assignment (Part 1) Due** - Submit in Canvas
 
 #### SPRING BREAK  
-* 03/5/22-03/13/22
+* 03/04/23-03/12/23
 
 #### Week 9: Content Analysis (1)
-* **Mon 03/14/22** Lecture: Content analysis
+* **Mon 03/13/23** Lecture: Content analysis
   * Reading: S&R Chapter 7 (pp. 154-173)
-* **Wed 03/16/22**: Lab session: Grouping/Aggregating data & More visualization
+* **Wed 03/15/23**: Lab session: Grouping/Aggregating data & More visualization
   * Reading W&G Chapters 7 & 28
     * https://r4ds.had.co.nz/exploratory-data-analysis.html
     * https://r4ds.had.co.nz/graphics-for-communication.html
-* **Fri 03/18/22 11.59pm - Quiz 6 Due** - Submit in Canvas
-* **Sun 03/20/22 11.59pm - Assignment 6 Due** - Submit in Canvas
+* **Fri 03/17/23 11.59pm - Quiz 6 Due** - Submit in Canvas
+* **Sun 03/20/23 11.59pm - Assignment 6 Due** - Submit in Canvas
 
 #### Week 10 Content Analysis (2)
-* **Mon 03/21/22** Lecture: Content analysis
+* **Mon 03/20/23** Lecture: Content analysis
   * Reading: S&R Chapter 7 (pp. 174-181)
-* **Wed 03/23/22** Lab session: Examining distributions and associations between variables; Summary visualization
+* **Wed 03/22/23** Lab session: Examining distributions and associations between variables; Summary visualization
   * Reading W&G Chapters 7 & 28
     * https://r4ds.had.co.nz/exploratory-data-analysis.html
     * https://r4ds.had.co.nz/graphics-for-communication.html
@@ -205,43 +208,43 @@ One of the aims of this class is to help students begin to develop data analysis
 
 
 #### Week 11: Using experiments
-* **Mon 03/28/22** Lecture: Experimental design
+* **Mon 03/27/23** Lecture: Experimental design
   * Readings S&R Chapter 6
-* **Wed 03/30/22** Lab session: Working with experimental data
-* **Fri 04/01/22 11.59pm - Quiz 7 Due** - Submit in Canvas
-* **Fri 04/01/22 11.59pm - Group Project Content Assignment (Part 1) Due** 
+* **Wed 03/29/23** Lab session: Working with experimental data
+* **Fri 03/31/23 11.59pm - Quiz 7 Due** - Submit in Canvas
+* **Sun 04/02/23 11.59pm - Group Project Content Assignment (Part 1) Due** 
 - Submit in Canvas
 
 
 #### Week 12:  Calculation and Statistics Overview
-* **Mon 04/04/22** Lecture: Types of stastics,  Hypothesis testing and types of error
+* **Mon 04/03/23** Lecture: Types of stastics,  Hypothesis testing and types of error
   * Readings S&R Chapter 8 (pp. 182-194)
-* **Wed 04/06/22** Lab session: Descriptive statistics and intro to models
+* **Wed 04/05/23** Lab session: Descriptive statistics and intro to models
   * Readings S&R Chapter 9 (pp. 201-225)
-* **Fri 04/08/22 11.59pm - Quiz 8 Due** - Submit in Canvas
-* **Sun 04/10/22 11.59pm - Assignment 7 Due** - Submit in Canvas
+* **Fri 04/07/23 11.59pm - Quiz 8 Due** - Submit in Canvas
+* **Sun 04/09/23 11.59pm - Assignment 7 Due** - Submit in Canvas
 
 
 #### Week 13 Making inferences
-* **Mon 04/11/22** Lecture: Inferential statistics and thinking about correlation and causation
+* **Mon 04/10/23** Lecture: Inferential statistics and thinking about correlation and causation
   * Readings S&R Chapter 8 (pp. 195-202)
-* **Wed 04/13/22** Lab session: Inferential statistics
+* **Wed 04/12/23** Lab session: Inferential statistics
   * Readings S&R Chapter 9 (pp. 226-275)
-* **Fri 04/15/22 11.59pm - Quiz 9 Due** - Submit in Canvas
-* **Sun 04/17/22 11.59pm - Assignment 8 Due** - Submit in Canvas
+* **Fri 04/14/23 11.59pm - Quiz 9 Due** - Submit in Canvas
+* **Sun 04/16/23 11.59pm - Assignment 8 Due** - Submit in Canvas
 
 
 #### Week 14 Data analysis
-* **Mon 04/18/22** Lab session: Working on data analysis from content analysis mini project
-* **Wed 04/20/22** Lab session: Working on data analysis from survey mini project
+* **Mon 04/17/23** Lab session: Working on data analysis from content analysis mini project
+* **Wed 04/19/23** Lab session: Working on data analysis from survey mini project
 
 #### Week 15 Wrapping things up
-* **Mon 04/25/22** Lecture: Community based research
+* **Mon 04/24/23** Lecture: Community based research
   * Readings S&R Chapter 11
-* **Wed 04/27/22** Lab session: Using RMarkdown for reporting research
+* **Wed 04/26/23** Lab session: Using RMarkdown for reporting research
 
 ### Project Due Dates
 
-* **Sun 05/8/22 11.59pm - Content Analysis Assignment (Part 2) Due** - Submit in 
-Canvas
+* TBA
+
 
