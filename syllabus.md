@@ -1,4 +1,17 @@
  
+## COMM 2100 Quantitative Research Methods in Communication
+
+### Spring 2023
+
+#### Monday/Wednesday 12.00-1.30pm
+
+#### Professor: Matt O'Donnell (he/him/his)
+* Email: mbod@asc.upenn.edu
+* Office Hours: via Zoom (see link in Canvas)
+	* Specfic times TBA
+		* But this may vary and I will always try and be available for appointments outside these times if you email with sufficient notice. 
+ 
+ 
 ----
 
 ## IMPORTANT NOTICE - <u>Masks are required in this class</u>
@@ -44,9 +57,9 @@ in which students will work through exercises using the R programming language (
   * More details will be provided as the course progresses.
 
 
-### Textbooks and recommended readings
+## Textbooks and recommended readings
 
-#### Textbooks
+### Textbooks
 
 1. Scharrer, E. and Ramasubramanian, S. (2021) *Quantitative Research Methods in Communication: The Power of Numbers for Social Justice*. Routledge (Available online through the library)
    * There will be weekly readings from this book aligned with the topics for the lectures. The quizzes will be primarily based on the content of these readings.
@@ -58,9 +71,9 @@ in which students will work through exercises using the R programming language (
     * There is more advanced material in the book that we won't be able to cover but it is well worth spending some time trying some of the exercises throughout the chapters.
     * This book is referenced as __W&G__ in the schedule below.<br/><br/>
 
-#### Recommended
+### Recommended
 
-* Spiegelhalter, D. (2021) _The Art of Statistics: How to Learn from Data_. Basic Books
+* Spiegelhalter, D. (2021) _Tfhe Art of Statistics: How to Learn from Data_. Basic Books
 
 * Wrench, J., Thomas-Maddox, C. and Richmond, V.P. (2018) _Quantitative Research Methods for Communication
 A Hands-On Approach_ Oxford University Press (4th ed.)
