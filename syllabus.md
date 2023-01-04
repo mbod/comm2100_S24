@@ -3,7 +3,7 @@
 
 ### Spring 2023
 
-#### Monday/Wednesday 12.00-1.30pm
+#### Monday/Wednesday 12.00-1.30pm (Room: ASC 108)
 
 #### Professor: Matt O'Donnell (he/him/his)
 * Email: mbod@asc.upenn.edu
@@ -17,6 +17,7 @@
 ## IMPORTANT NOTICE - <u>Masks are required in this class</u>
 * Please make sure you are wearing a face mask fully covering both mouth and nose _before_ you enter the classroom and keep it in place _at all times_.
 * Make sure you have a "properly-fitting, high-quality mask (preferably a surgical mask, KN95/KF94, N95, or [EHRS-recommended Aries mask](https://ehrs.upenn.edu/covid-19/universal-mask-and-cloth-face-covering-precautions) as opposed to a single layer cloth mask)." (UPenn Public Health Guidance).
+<br/><br/>
 
 ----
 
