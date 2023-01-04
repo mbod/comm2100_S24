@@ -1,17 +1,3 @@
-
-
-## COMM 2100 Quantitative Research Methods in Communication
-
-### Spring 2023
-
-#### Monday/Wednesday 12.00-1.30pm
-
-#### Professor: Matt O'Donnell (he/him/his)
-* Email: mbod@asc.upenn.edu
-* Office Hours: via Zoom (see link in Canvas)
-	* Specfic times TBA
-		* But this may vary and I will always try and be available for appointments outside these times if you email with sufficient notice.
-
  
 ----
 
@@ -95,7 +81,7 @@ One of the aims of this class is to help students begin to develop data analysis
 
 -----
 
-### Schedule
+## Schedule
 
 **NOTE: This is a tentative schedule that will change as the course gets started**
 
@@ -123,7 +109,7 @@ One of the aims of this class is to help students begin to develop data analysis
     * https://r4ds.had.co.nz/r-markdown.html
     * https://r4ds.had.co.nz/r-markdown-formats.html
 * **Fri 01/27/23 11.59pm - Quiz 2 Due** - Submit in Canvas
-* **Sun 01/29/23 11.59pm - Assignment 1 Due** - Submit in Canvas
+* **Sun 01/29/23 11.59pm - Assignment 1 Due** - Submit in JupyterHub
 
 
 #### Week 4: Measurement (1)
@@ -134,7 +120,7 @@ One of the aims of this class is to help students begin to develop data analysis
   * Reading: W&G Chapter 3
     * https://r4ds.had.co.nz/data-visualisation.html
 * **Fri 02/03/23 11.59pm - Quiz 3a Due** - Submit in Canvas
-* **Sun 02/05/23 11.59pm - Assignment 2 Due** - Submit in Canvas
+* **Sun 02/05/23 11.59pm - Assignment 2 Due** - Submit in JupyterHub
 
 #### Week 5: Measurement  (2)
 * **Mon 02/06/23** Lecture: Measurement, Validity & Reliability
@@ -146,7 +132,7 @@ One of the aims of this class is to help students begin to develop data analysis
     * https://r4ds.had.co.nz/exploratory-data-analysis.html
     * https://r4ds.had.co.nz/factors.html
 * **Fri 02/10/23 11.59pm - Quiz 3b Due** - Submit in Canvas
-* **Sun 02/12/23 11.59pm - Assignment 3 Due** - Submit in Canvas
+* **Sun 02/12/23 11.59pm - Assignment 3 Due** - Submit in JupyterHub
 
 #### Week 6: Sampling
 * **Mon 02/13/23** Lecture: Sampling
@@ -156,7 +142,7 @@ One of the aims of this class is to help students begin to develop data analysis
     * https://r4ds.had.co.nz/transform.html
     * https://r4ds.had.co.nz/exploratory-data-analysis.html
 * **Fri 02/17/23 11.59pm - Quiz 4 Due** - Submit in Canvas
-* **Sun 02/19/23 11.59pm - Assignment 4 Due** - Submit in Canvas
+* **Sun 02/19/23 11.59pm - Assignment 4 Due** - Submit in JupyterHub
 
 
 #### Week 7: Using Surveys (1)
@@ -169,7 +155,7 @@ One of the aims of this class is to help students begin to develop data analysis
     * https://r4ds.had.co.nz/pipes.html
   * Working on survey mini project
 * **Fri 02/24/23 11.59pm - Quiz 5 Due** - Submit in Canvas
-* **Sun 02/26/23 11.59pm - Assignment 5 Due** - Submit in Canvas
+* **Sun 02/26/23 11.59pm - Assignment 5 Due** - Submit in JupyterHub
 
 #### Week 8: Using Surveys (2)
 * **Mon 02/27/23** Lecture: Using surveys
@@ -194,7 +180,7 @@ One of the aims of this class is to help students begin to develop data analysis
     * https://r4ds.had.co.nz/exploratory-data-analysis.html
     * https://r4ds.had.co.nz/graphics-for-communication.html
 * **Fri 03/17/23 11.59pm - Quiz 6 Due** - Submit in Canvas
-* **Sun 03/20/23 11.59pm - Assignment 6 Due** - Submit in Canvas
+* **Sun 03/19/23 11.59pm - Assignment 6 Due** - Submit in JupyterHub
 
 #### Week 10 Content Analysis (2)
 * **Mon 03/20/23** Lecture: Content analysis
@@ -212,8 +198,7 @@ One of the aims of this class is to help students begin to develop data analysis
   * Readings S&R Chapter 6
 * **Wed 03/29/23** Lab session: Working with experimental data
 * **Fri 03/31/23 11.59pm - Quiz 7 Due** - Submit in Canvas
-* **Sun 04/02/23 11.59pm - Group Project Content Assignment (Part 1) Due** 
-- Submit in Canvas
+* **Sun 04/02/23 11.59pm - Group Content Analysis Assignment (Part 1) Due** - Submit in Canvas
 
 
 #### Week 12:  Calculation and Statistics Overview
@@ -221,8 +206,8 @@ One of the aims of this class is to help students begin to develop data analysis
   * Readings S&R Chapter 8 (pp. 182-194)
 * **Wed 04/05/23** Lab session: Descriptive statistics and intro to models
   * Readings S&R Chapter 9 (pp. 201-225)
-* **Fri 04/07/23 11.59pm - Quiz 8 Due** - Submit in Canvas
-* **Sun 04/09/23 11.59pm - Assignment 7 Due** - Submit in Canvas
+* **Fri 04/07/23 11.59pm - Quiz 8 Due** - Submit in JupyterHub
+* **Sun 04/09/23 11.59pm - Assignment 7 Due** - Submit in JupyterHub
 
 
 #### Week 13 Making inferences
@@ -231,7 +216,7 @@ One of the aims of this class is to help students begin to develop data analysis
 * **Wed 04/12/23** Lab session: Inferential statistics
   * Readings S&R Chapter 9 (pp. 226-275)
 * **Fri 04/14/23 11.59pm - Quiz 9 Due** - Submit in Canvas
-* **Sun 04/16/23 11.59pm - Assignment 8 Due** - Submit in Canvas
+* **Sun 04/16/23 11.59pm - Assignment 8 Due** - Submit in JupyterHub
 
 
 #### Week 14 Data analysis
