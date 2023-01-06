@@ -204,15 +204,16 @@ One of the aims of this class is to help students begin to develop data analysis
     * https://r4ds.had.co.nz/exploratory-data-analysis.html
     * https://r4ds.had.co.nz/graphics-for-communication.html
   * Working on content analysis mini project
-* **NO QUIZ THIS WEEK**
+* **Fri 03/23/23 11.59pm - Quiz 7 Due** - Submit in Canvas
+* **Sun 03/25/23 11.59pm - Group Content Analysis Assignment (Part 1) Due** - Submit in Canvas
 
 
 #### Week 11: Using experiments
 * **Mon 03/27/23** Lecture: Experimental design
   * Readings S&R Chapter 6
 * **Wed 03/29/23** Lab session: Working with experimental data
-* **Fri 03/31/23 11.59pm - Quiz 7 Due** - Submit in Canvas
-* **Sun 04/02/23 11.59pm - Group Content Analysis Assignment (Part 1) Due** - Submit in Canvas
+* **Fri 03/31/23 11.59pm - Quiz 8 Due** - Submit in JupyterHub
+* **Sun 04/02/23 11.59pm - Assignment 7 Due** - Submit in JupyterHub
 
 
 #### Week 12:  Calculation and Statistics Overview
@@ -220,9 +221,7 @@ One of the aims of this class is to help students begin to develop data analysis
   * Readings S&R Chapter 8 (pp. 182-194)
 * **Wed 04/05/23** Lab session: Descriptive statistics and intro to models
   * Readings S&R Chapter 9 (pp. 201-225)
-* **Fri 04/07/23 11.59pm - Quiz 8 Due** - Submit in JupyterHub
-* **Sun 04/09/23 11.59pm - Assignment 7 Due** - Submit in JupyterHub
-
+* **NO QUIZ THIS WEEK**
 
 #### Week 13 Making inferences
 * **Mon 04/10/23** Lecture: Inferential statistics and thinking about correlation and causation
