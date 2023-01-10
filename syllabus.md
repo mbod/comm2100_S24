@@ -3,7 +3,7 @@
 
 ### Spring 2023
 
-#### Monday/Wednesday 12.00-1.30pm (Room: ASC 108)
+#### Monday/Wednesday 12.00-1.30pm (Room: ASC 109)
 
 #### Professor: Matt O'Donnell (he/him/his)
 * Email: mbod@asc.upenn.edu
