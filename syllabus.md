@@ -115,11 +115,11 @@ One of the aims of this class is to help students begin to develop data analysis
 
 #### Week 3: Ethics and Social Science Research
 * **Mon 01/23/23** Lab Session
-  * Using RMarkdown to create documents
-  * Reading W&G Chapters 4, 27 & 29
+  * Using Markdown to communicate data analysis
+  * Basics of R for data analysis
+  * Reading W&G Chapters 2 & 4
+    * https://r4ds.had.co.nz/explore-intro.html
     * https://r4ds.had.co.nz/workflow-basics.html
-    * https://r4ds.had.co.nz/r-markdown.html
-    * https://r4ds.had.co.nz/r-markdown-formats.html
 
 * **Wed 01/25/23** Lecture: Ethics and research
   * Reading: S&R Chapter 2
