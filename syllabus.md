@@ -136,7 +136,7 @@ One of the aims of this class is to help students begin to develop data analysis
 * **Wed 02/01/23** Lecture: Operationalization
   * Reading: S&R Chapter 3 (pp. 47-54)
 * **Fri 02/03/23 11.59pm - Quiz 3a Due** - Submit in Canvas
-* **Sun 02/05/23 11.59pm - Assignment 2 Due** - Submit in JupyterHub
+
 
 #### Week 5: Measurement  (2)
 * **Mon 02/06/23** Lab session
@@ -145,6 +145,8 @@ One of the aims of this class is to help students begin to develop data analysis
     * https://r4ds.had.co.nz/transform.html
     * https://r4ds.had.co.nz/exploratory-data-analysis.html
     * https://r4ds.had.co.nz/factors.html
+
+* **Mon 02/06/23 11.59pm - Assignment 2 Due** - Submit in JupyterHub
 
 * **Wed 02/08/23** Lecture: Measurement, Validity & Reliability
   * Reading: S&R Chapter 3 (pp. 55-72)
