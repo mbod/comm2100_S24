@@ -162,7 +162,6 @@ One of the aims of this class is to help students begin to develop data analysis
   * Reading: S&R Chapter 4
 
 * **Fri 02/17/23 11.59pm - Quiz 4 Due** - Submit in Canvas
-* **Sun 02/19/23 11.59pm - Assignment 4 Due** - Submit in JupyterHub
 
 
 #### Week 7: Using Surveys (1)
@@ -175,8 +174,9 @@ One of the aims of this class is to help students begin to develop data analysis
 
 * **Wed 02/22/23** Lecture: Using surveys
   * Reading: S&R Chapter 5
+  * **Wed 02/22/23 11.59pm - Assignment 4 Due** - Submit in JupyterHub
+
 * **Fri 02/24/23 11.59pm - Quiz 5 Due** - Submit in Canvas
-* **Sun 02/26/23 11.59pm - Assignment 5 Due** - Submit in JupyterHub
 
 #### Week 8: Using Surveys (2)
 * **Mon 02/27/23** Lab session: Summarizing data
@@ -203,7 +203,7 @@ One of the aims of this class is to help students begin to develop data analysis
 * **Wed 03/15/23** Lecture: Content analysis
   * Reading: S&R Chapter 7 (pp. 154-173)
 * **Fri 03/17/23 11.59pm - Quiz 6 Due** - Submit in Canvas
-* **Sun 03/19/23 11.59pm - Assignment 6 Due** - Submit in JupyterHub
+
 
 #### Week 10 Content Analysis (2)
 * **Mon 03/20/23** Lab session: Examining distributions and associations between variables; Summary visualization
@@ -211,6 +211,8 @@ One of the aims of this class is to help students begin to develop data analysis
     * https://r4ds.had.co.nz/exploratory-data-analysis.html
     * https://r4ds.had.co.nz/graphics-for-communication.html
   * Working on content analysis mini project
+
+* **Mon 03/20/23 11.59pm - Assignment 5 Due** - Submit in JupyterHub
 
 * **Wed 03/22/23** Lecture: Content analysis
   * Reading: S&R Chapter 7 (pp. 174-181)
@@ -223,8 +225,9 @@ One of the aims of this class is to help students begin to develop data analysis
 * **Wed 03/29/23** Lecture: Experimental design
   * Readings S&R Chapter 6
 
+* **Wed 03/29/23 11.59pm - Assignment 6 Due** - Submit in JupyterHub
 * **Fri 03/31/23 11.59pm - Quiz 8 Due** - Submit in JupyterHub
-* **Sun 04/02/23 11.59pm - Assignment 7 Due** - Submit in JupyterHub
+
 
 
 #### Week 12:  Calculation and Statistics Overview
@@ -233,16 +236,21 @@ One of the aims of this class is to help students begin to develop data analysis
 
 * **Wed 04/05/23** Lecture: Types of stastics,  Hypothesis testing and types of error
   * Readings S&R Chapter 8 (pp. 182-194)
+  
+  
 * **NO QUIZ THIS WEEK**
 
 #### Week 13 Making inferences
 * **Mon 04/10/23** Lab session: Inferential statistics
   * Readings S&R Chapter 9 (pp. 226-275)
+  
+* **Mon 04/10/23 11.59pm - Assignment 7 Due** - Submit in JupyterHub
+
 * **Wed 04/12/23** Lecture: Inferential statistics and thinking about correlation and causation
   * Readings S&R Chapter 8 (pp. 195-202)
 
 * **Fri 04/14/23 11.59pm - Quiz 9 Due** - Submit in Canvas
-* **Sun 04/16/23 11.59pm - Assignment 8 Due** - Submit in JupyterHub
+
 
 
 #### Week 14 Data analysis
