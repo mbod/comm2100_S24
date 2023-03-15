@@ -202,7 +202,6 @@ One of the aims of this class is to help students begin to develop data analysis
 
 * **Wed 03/15/23** Lecture: Content analysis
   * Reading: S&R Chapter 7 (pp. 154-173)
-* **Fri 03/17/23 11.59pm - Quiz 6 Due** - Submit in Canvas
 
 
 #### Week 10 Content Analysis (2)
@@ -216,7 +215,7 @@ One of the aims of this class is to help students begin to develop data analysis
 
 * **Wed 03/22/23** Lecture: Content analysis
   * Reading: S&R Chapter 7 (pp. 174-181)
-* **Fri 03/23/23 11.59pm - Quiz 7 Due** - Submit in Canvas
+* **Fri 03/23/23 11.59pm - Quiz 6 Due** - Submit in Canvas
 * **Sun 03/25/23 11.59pm - Group Content Analysis Assignment (Part 1) Due** - Submit in Canvas
 
 
@@ -226,7 +225,7 @@ One of the aims of this class is to help students begin to develop data analysis
   * Readings S&R Chapter 6
 
 * **Wed 03/29/23 11.59pm - Assignment 6 Due** - Submit in JupyterHub
-* **Fri 03/31/23 11.59pm - Quiz 8 Due** - Submit in JupyterHub
+* **Fri 03/31/23 11.59pm - Quiz 7 Due** - Submit in JupyterHub
 
 
 
@@ -234,7 +233,7 @@ One of the aims of this class is to help students begin to develop data analysis
 * **Mon 04/03/23** Lab session: Descriptive statistics and intro to models
   * Readings S&R Chapter 9 (pp. 201-225)
 
-* **Wed 04/05/23** Lecture: Types of stastics,  Hypothesis testing and types of error
+* **Wed 04/05/23** Lecture: Types of statistics,  Hypothesis testing and types of error
   * Readings S&R Chapter 8 (pp. 182-194)
   
   
@@ -249,13 +248,14 @@ One of the aims of this class is to help students begin to develop data analysis
 * **Wed 04/12/23** Lecture: Inferential statistics and thinking about correlation and causation
   * Readings S&R Chapter 8 (pp. 195-202)
 
-* **Fri 04/14/23 11.59pm - Quiz 9 Due** - Submit in Canvas
-
+* **Fri 04/14/23 11.59pm - Quiz 8 Due** - Submit in Canvas
 
 
 #### Week 14 Data analysis
 * **Mon 04/17/23** Lab session: Working on data analysis from content analysis mini project
 * **Wed 04/19/23** Lab session: Working on data analysis from survey mini project
+* **Fri 04/21/23 11.59pm - Quiz 9 Due** - Submit in Canvas
+
 
 #### Week 15 Wrapping things up
 * **Mon 04/24/23** Lab session: Using RMarkdown for reporting research
