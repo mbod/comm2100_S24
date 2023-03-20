@@ -216,7 +216,7 @@ One of the aims of this class is to help students begin to develop data analysis
 * **Wed 03/22/23** Lecture: Content analysis
   * Reading: S&R Chapter 7 (pp. 174-181)
 * **Fri 03/23/23 11.59pm - Quiz 6 Due** - Submit in Canvas
-* **Sun 03/25/23 11.59pm - Group Content Analysis Assignment (Part 1) Due** - Submit in Canvas
+
 
 
 #### Week 11: Using experiments
@@ -224,15 +224,14 @@ One of the aims of this class is to help students begin to develop data analysis
 * **Wed 03/29/23** Lecture: Experimental design
   * Readings S&R Chapter 6
 
-* **Wed 03/29/23 11.59pm - Assignment 6 Due** - Submit in JupyterHub
 * **Fri 03/31/23 11.59pm - Quiz 7 Due** - Submit in JupyterHub
-
+* **Fri 03/31/23 11.59pm - Group Content Analysis Assignment (Part 1) Due** - Submit in Canvas
 
 
 #### Week 12:  Calculation and Statistics Overview
 * **Mon 04/03/23** Lab session: Descriptive statistics and intro to models
   * Readings S&R Chapter 9 (pp. 201-225)
-
+* **Mon 04/03/23 11.59pm - Assignment 6 Due** - Submit in JupyterHub
 * **Wed 04/05/23** Lecture: Types of statistics,  Hypothesis testing and types of error
   * Readings S&R Chapter 8 (pp. 182-194)
   
