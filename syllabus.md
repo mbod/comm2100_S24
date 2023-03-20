@@ -211,10 +211,12 @@ One of the aims of this class is to help students begin to develop data analysis
     * https://r4ds.had.co.nz/graphics-for-communication.html
   * Working on content analysis mini project
 
-* **Mon 03/20/23 11.59pm - Assignment 5 Due** - Submit in JupyterHub
+
 
 * **Wed 03/22/23** Lecture: Content analysis
   * Reading: S&R Chapter 7 (pp. 174-181)
+* **Wed 03/22/23 11.59pm - Assignment 5 Due** - Submit in JupyterHub
+
 * **Fri 03/23/23 11.59pm - Quiz 6 Due** - Submit in Canvas
 
 
