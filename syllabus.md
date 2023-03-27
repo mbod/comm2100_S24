@@ -222,7 +222,7 @@ One of the aims of this class is to help students begin to develop data analysis
 
 
 #### Week 11: Using experiments
-* **Mon 03/27/23** Lab session: Working with experimental data
+* **Mon 03/27/23** Lab session: Working on Group Content Analysis Project
 * **Wed 03/29/23** Lecture: Experimental design
   * Readings S&R Chapter 6
 
