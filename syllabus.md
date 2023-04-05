@@ -241,13 +241,17 @@ One of the aims of this class is to help students begin to develop data analysis
 * **NO QUIZ THIS WEEK**
 
 #### Week 13 Making inferences
-* **Mon 04/10/23** Lab session: Inferential statistics
-  * Readings S&R Chapter 9 (pp. 226-275)
-  
-* **Mon 04/10/23 11.59pm - Assignment 7 Due** - Submit in JupyterHub
+
+* **Mon 04/10/23** - Working on Content Analysis project (**on Zoom**)
+  * IMPORTANT
+    - **NO IN PERSON CLASS**
+    - We will use Zoom breakout rooms to work with groups on their Content Analysis project
+
 
 * **Wed 04/12/23** Lecture: Inferential statistics and thinking about correlation and causation
-  * Readings S&R Chapter 8 (pp. 195-202)
+  * Readings S&R Chapter 8 (pp. 195-202) & Chapter 9 (pp. 226-275)
+
+* **Wed 04/12/23 11.59pm - Assignment 7 Due** - Submit in JupyterHub
 
 * **Fri 04/14/23 11.59pm - Quiz 8 Due** - Submit in Canvas
 
