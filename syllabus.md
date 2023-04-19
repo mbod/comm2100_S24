@@ -251,26 +251,24 @@ One of the aims of this class is to help students begin to develop data analysis
 * **Wed 04/12/23** Lecture: Inferential statistics and thinking about correlation and causation
   * Readings S&R Chapter 8 (pp. 195-202) & Chapter 9 (pp. 226-275)
 
-
-
 * **Fri 04/14/23 11.59pm - Quiz 8 Due** - Submit in Canvas
 
 
 #### Week 14 Data analysis
 * **Mon 04/17/23** Lab session: Working on data analysis from content analysis mini project
-* **Wed 04/19/23** Lab session: Working on data analysis from survey mini project
-* **Wed 04/19/23 11.59pm - Assignment 6 Due** - Submit in JupyterHub
+* **Wed 04/19/23** Lab session: Working on data analysis from content analysis mini project
+
 * **Fri 04/21/23 11.59pm - Quiz 9 Due** - Submit in Canvas
 
 
 #### Week 15 Wrapping things up
-* **Mon 04/24/23** Lab session: Using RMarkdown for reporting research
-* **Wed 04/26/23** Lecture: Community based research
-  * Readings S&R Chapter 11
-
+* **Mon 04/24/23** Lab session: Working on data analysis from content analysis mini project
+* **Wed 04/26/23** Lab session: Project Group Presentations and working on data analysis for projects
+* **Wed 04/26/23 11.59pm - Assignment 6 Due** - Submit in JupyterHub
 
 ### Project Due Dates
 
-* TBA
+* **Tue 05/02/23 11.59pm - Work will be in JupyterHub shared folder but also submit PDF through Canvas
 
+ 
 
