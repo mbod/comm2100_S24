@@ -404,6 +404,8 @@ started**
 
 -   Working on Group Content Analysis Project
 
+pp
+
 
 ### Thursday 04 April - Lecture
 
@@ -435,69 +437,58 @@ started**
 -   Types of statistics, Hypothesis testing and types of error
 
 
-## Week 13 -
+## Week 13 - Making inferences
+
+-   READINGS: `S&R` Chs. 8 (pp. 195-202) & 9 (pp. 226-275)
 
 
-### Tuesday 16 April
+### Tuesday 16 April - Lab Session
+
+-   Working on Content Analysis project
 
 
-### Thursday 18 April
+### Thursday 18 April - Lecture
+
+-   Inferential statistics and thinking about correlation and causation
 
 
-## Week 14 -
+### QUIZ 10 DUE - Friday 19 April @ 11.59pm
+
+-   Submit in Canvas
 
 
-### Tuesday 23 April
+### ASSIGNMENT 6 DUE - Sunday 21 April @ 11.59pm
+
+-   Submit in Jupyterhub
 
 
-### Thursday 25 April
+## Week 14 - Data analysis
 
 
-## Week 15 -
+### Tuesday 23 April - Lab session
+
+-   Working on data analysis from content analysis mini project
+
+
+### Thursday 25 April - Lab session
+
+-   Working on data analysis from content analysis mini project
+
+
+### QUIZ 11 DUE - Friday 26 April @ 11.59pm
+
+-   Submit in Canvas
+
+
+## Week 15 - Wrapping things up
 
 
 ### Tuesday 30 April
 
----
-
-
-### Week 13 Making inferences
-
--   **Mon 04/10/23** - Working on Content Analysis project (**on Zoom**)
-    -   IMPORTANT
-        -   **NO IN PERSON CLASS**
-        -   We will use Zoom breakout rooms to work with groups on their
-            Content Analysis project
-
--   **Wed 04/12/23** Lecture: Inferential statistics and thinking about
-    correlation and causation
-    -   Readings S&R Chapter 8 (pp. 195-202) & Chapter 9 (pp. 226-275)
-
--   **Fri 04/14/23 11.59pm - Quiz 8 Due** - Submit in Canvas
-
-
-### Week 14 Data analysis
-
--   **Mon 04/17/23** Lab session: Working on data analysis from content
-    analysis mini project
-
--   **Wed 04/19/23** Lab session: Working on data analysis from content
-    analysis mini project
-
--   **Fri 04/21/23 11.59pm - Quiz 9 Due** - Submit in Canvas
-
-
-### Week 15 Wrapping things up
-
--   **Mon 04/24/23** Lab session: Working on data analysis from content
-    analysis mini project
--   **Wed 04/26/23** Lab session: Project Group Presentations and working on
-    data analysis for projects
--   **Wed 04/26/23 11.59pm - Assignment 6 Due** - Submit in JupyterHub
+&#x2014;
 
 
 ## Project Due Dates
 
--   \*\*Tue 05/02/23 11.59pm - Work will be in JupyterHub shared folder but
-    also submit PDF through Canvas
+-   TBA
 
