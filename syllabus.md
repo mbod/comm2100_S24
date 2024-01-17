@@ -195,7 +195,7 @@ started**
 -   Submit in Canvas
 
 
-### ASSIGNMENT 1 DUE - Sunday 5 January @ 11.59pm
+### ASSIGNMENT 1 DUE - Sunday 5 February @ 11.59pm
 
 -   Submit in Jupyterhub
 
