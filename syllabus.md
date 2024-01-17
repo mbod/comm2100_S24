@@ -2,6 +2,8 @@
 
 # COMM 2100 Quantitative Research Methods in Communication
 
+p
+
 
 ## Spring 2024
 
@@ -95,19 +97,20 @@
     -   Most weeks there will be a short quiz related to the lecture and
         readings for the week. The quiz will be available in Canvas.
 
--   Lab Assignments (40%)
+-   Lab Assignments (35%)
     -   Weekly lab sessions will focus on learning to use R for data and
         statistical analysis and will include questions to complete and
         submit by Sunday 11.59pm the same week.
 
--   Two small group mini projects (40%)
+-   Two small group mini projects (45%)
     -   These projects will give you a chance gain hands-on experience using
         two of the Communication research methods we will cover in the
         lectures and readings.
-        1.  Content Analysis (20%)
-        2.  Survey measure and analysis (20%)
-    
-    -   More details will be provided as the course progresses.
+
+1.  Survey measure and analysis (20%)
+2.  Content Analysis (25%)
+
+-   More details will be provided as the course progresses.
 
 
 # Textbooks and recommended readings
@@ -527,8 +530,6 @@ pp
 
 
 ### Tuesday 30 April
-
-&#x2014;
 
 
 ## Project Due Dates
