@@ -2,8 +2,6 @@
 
 # COMM 2100 Quantitative Research Methods in Communication
 
-p
-
 
 ## Spring 2024
 
