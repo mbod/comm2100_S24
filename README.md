@@ -3,14 +3,14 @@
 
 ### Annenberg School for Communication
 
-#### Spring 2023
+#### Spring 2024
 
 
-Monday/Wednesday 12.00-1.30pm
+Tuesday/Thursday 10.15-11.45am
+
 
 
 Professor: Dr. Matt O'Donnell Email: mbod@asc.upenn.edu
-
 
 
 
