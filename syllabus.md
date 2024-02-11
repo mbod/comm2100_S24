@@ -3,11 +3,11 @@
 
 1.  [COMM 2100 Quantitative Research Methods in Communication](#comm-2100-quantitative-research-methods-in-communication)
     1.  [Spring 2024](#spring-2023)
-        1.  [Tuesday/Thursday 10.15-11.45am (Room: ASC 109)](#orgefb3ec1)
+        1.  [Tuesday/Thursday 10.15-11.45am (Room: ASC 109)](#orgafda411)
         2.  [Professor: Matt O'Donnell (he/him/his)](#professor-matt-odonnell-hehimhis)
-2.  [IMPORTANT NOTICES](#orgecaa751)
-    1.  [1. HEALTH AND WELLNESS](#org9e5491f)
-    2.  [2. ATTENDANCE, ZOOM AND CLASS RECORDINGS](#orga3e0d54)
+2.  [IMPORTANT NOTICES](#org55a090f)
+    1.  [1. HEALTH AND WELLNESS](#org9ee2b23)
+    2.  [2. ATTENDANCE, ZOOM AND CLASS RECORDINGS](#org40e6a77)
 3.  [Course Description, Goals and Objectives](#course-description-goals-and-objectives)
 4.  [Assessment](#assessment)
 5.  [Textbooks and recommended readings](#textbooks-and-recommended-readings)
@@ -15,74 +15,74 @@
     2.  [Recommended](#recommended)
 6.  [Note about learning programming](#note-about-learning-programming)
 7.  [Schedule](#schedule)
-    1.  [Week 1 - Course Introduction and Setup](#org10a2c6e)
-        1.  [Thursday 18 January](#orgd45bb43)
-    2.  [Week 2 - Overview of Social Science research](#org7fabe90)
-        1.  [Tuesday 23 January](#org1dc0dcd)
-        2.  [Thursday 25 January - Lab Session](#orgf94fd38)
-        3.  [QUIZ 1 DUE - Friday 26 January @ 11.59pm](#org701d408)
-    3.  [Week 3 - Ethics and Social Science Research](#org3281f68)
-        1.  [Tuesday 30 January - Lab Session](#org0d853ad)
-        2.  [Thursday 01 February - Lecture](#org77fe514)
-        3.  [QUIZ 2 DUE - Friday 3 February @ 11.59pm](#org707b19a)
-        4.  [ASSIGNMENT 1 DUE - Sunday 4 February @ 11.59pm](#orgcc544c9)
-    4.  [Week 4 - Measurement (1)](#org390a915)
-        1.  [Tuesday 06 February - Lab Session](#org08fb5c9)
-        2.  [Thursday 08 February - Lecture](#org5c502f2)
-        3.  [QUIZ 3 DUE - Friday 9 February @ 11.59pm](#org73810f5)
-        4.  [ASSIGNMENT 2 DUE - Sunday 11 February @ 11.59pm](#orgee7cf4b)
-    5.  [Week 5 - Measurement (2)](#org39b2690)
-        1.  [Tuesday 13 February - Lab Session](#orgac8d361)
-        2.  [Thursday 15 February - Lecture](#org1b78767)
-        3.  [QUIZ 4 DUE - Friday 16 February @ 11.59pm](#orgf57aec6)
-        4.  [ASSIGNMENT 4 DUE - Sunday 18 February @ 11.59pm](#orge8f8d9e)
-    6.  [Week 6 - Sampling](#orgae758c5)
-        1.  [Tuesday 20 February - Lab session](#org554372d)
-        2.  [Thursday 22 February - Lecture](#orga29f1e4)
-        3.  [QUIZ 5 DUE - Friday 23 February @ 11.59pm](#org1ba9964)
-        4.  [ASSIGNMENT 5 DUE - Sunday 25 February @ 11.59pm](#orgd9e5269)
-    7.  [Week 7 - Using Surveys (1)](#orgf8ef9cc)
-        1.  [Tuesday 27 February - Lecture](#org71da165)
-        2.  [Thursday 29 February - Lab Session](#org477df58)
-        3.  [QUIZ 6 DUE - Friday 1 March @ 11.59pm](#org2bd3e57)
-    8.  [SPRING BREAK (2-10 March)](#org88c1bf8)
-        1.  [NO CLASSES](#org8c2fcb3)
-    9.  [Week 8 - Using Surveys (2)](#orga60ff4d)
-        1.  [Tuesday 12 March - Lab Session](#org8d986c6)
-        2.  [Thursday 14 March - Lecture](#org9835620)
-        3.  [NO QUIZ THIS WEEK](#orgf168ed9)
-        4.  [SURVEY MEASURES ASSIGNMENT (Part 1) DUE - Sunday 17 March @ 11.59pm](#orgfdf16cf)
-    10. [Week 9 - Content Analysis (1)](#orgc5c7b12)
-        1.  [Tuesday 19 March - Lab session](#org28f9f5e)
-        2.  [Thursday 21 March - Lecture](#org2089f09)
-        3.  [QUIZ 7 DUE - Friday 22 March @ 11.59pm](#orgdeca818)
-        4.  [ASSIGNMENT 6 DUE - Sunday 24 March @ 11.59pm](#org59fe377)
-    11. [Week 10 - Content Analysis (2)](#org93d0f1f)
-        1.  [Tuesday 26 March - Lab session](#org891bd58)
-        2.  [Thursday 28 March - Lecture](#orgcc6fdaf)
-        3.  [QUIZ 8 DUE - Friday 29 March @ 11.59pm](#org9169f54)
-        4.  [ASSIGNMENT 7 DUE - Sunday 31 March @ 11.59pm](#org87ae24b)
-    12. [Week 11 - Using experiments](#org4cbf7ad)
-        1.  [Tuesday 02 April - Lab session](#org7363273)
-        2.  [Thursday 04 April - Lecture](#orga90d2de)
-        3.  [QUIZ 9 DUE - Friday 5 April @ 11.59pm](#orgf0f8848)
-        4.  [CONTENT ANALYSIS ASSIGNMENT (Part 1) DUE - Sunday 7 April @ 11.59pm](#orgcdf46d2)
-    13. [Week 12 - Calculation and Statistics Overview](#orge9628a6)
-        1.  [Tuesday 09 April - Lab session](#org0ba649b)
-        2.  [Thursday 11 April - Lecture](#orgbe36d97)
-    14. [Week 13 - Making inferences](#org78b20d9)
-        1.  [Tuesday 16 April - Lab Session](#org9410950)
-        2.  [Thursday 18 April - Lecture](#org2294ff9)
-        3.  [QUIZ 10 DUE - Friday 19 April @ 11.59pm](#org3fb56aa)
-        4.  [ASSIGNMENT 8 DUE - Sunday 21 April @ 11.59pm](#orgc8272d6)
-    15. [Week 14 - Data analysis](#org002cbe9)
-        1.  [Tuesday 23 April - Lab session](#orgdbc50dc)
-        2.  [Thursday 25 April - Lab session](#orgbeb2c60)
-        3.  [QUIZ 11 DUE - Friday 26 April @ 11.59pm](#org62cc9b6)
-        4.  [SURVERY DATA ANALYSIS (Part 2) DUE - Sunday 28 April @ 11.59pm](#org7046695)
-    16. [Week 15 - Wrapping things up](#org6c46860)
-        1.  [Tuesday 30 April](#orgbcbb55f)
-    17. [Project Due Dates](#org2502598)
+    1.  [Week 1 - Course Introduction and Setup](#orga594b8f)
+        1.  [Thursday 18 January](#orgb58554c)
+    2.  [Week 2 - Overview of Social Science research](#orgf8c54af)
+        1.  [Tuesday 23 January](#orgba50844)
+        2.  [Thursday 25 January - Lab Session](#orgbf6c4d6)
+        3.  [QUIZ 1 DUE - Friday 26 January @ 11.59pm](#org0f984e5)
+    3.  [Week 3 - Ethics and Social Science Research](#orge8aa948)
+        1.  [Tuesday 30 January - Lab Session](#org3477c61)
+        2.  [Thursday 01 February - Lecture](#org3ef9d73)
+        3.  [QUIZ 2 DUE - Friday 3 February @ 11.59pm](#orgf9902b2)
+        4.  [ASSIGNMENT 1 DUE - Sunday 4 February @ 11.59pm](#orgeeb911d)
+    4.  [Week 4 - Measurement (1)](#orgbef252f)
+        1.  [Tuesday 06 February - Lab Session](#orgac0f6c8)
+        2.  [Thursday 08 February - Lecture](#org8563e97)
+        3.  [QUIZ 3 DUE - Friday 9 February @ 11.59pm](#orge62059e)
+        4.  [ASSIGNMENT 2 DUE - Sunday 11 February @ 11.59pm](#orge2e3f59)
+    5.  [Week 5 - Measurement (2)](#org29e4372)
+        1.  [Tuesday 13 February - Lab Session](#org7a3c91d)
+        2.  [Thursday 15 February - Lecture](#orgdcbaab8)
+        3.  [QUIZ 4 DUE - Friday 16 February @ 11.59pm](#org437b199)
+        4.  [ASSIGNMENT 3 DUE - Sunday 18 February @ 11.59pm](#org35a7c3a)
+    6.  [Week 6 - Sampling](#org5d8129f)
+        1.  [Tuesday 20 February - Lab session](#org4035d72)
+        2.  [Thursday 22 February - Lecture](#org8a88a56)
+        3.  [QUIZ 5 DUE - Friday 23 February @ 11.59pm](#org5ba266c)
+        4.  [ASSIGNMENT 4 DUE - Sunday 25 February @ 11.59pm](#orgbd6b2a2)
+    7.  [Week 7 - Using Surveys (1)](#orgaa94739)
+        1.  [Tuesday 27 February - Lecture](#org5f9044b)
+        2.  [Thursday 29 February - Lab Session](#orgebe415c)
+        3.  [QUIZ 6 DUE - Friday 1 March @ 11.59pm](#org95b064c)
+    8.  [SPRING BREAK (2-10 March)](#org46f8119)
+        1.  [NO CLASSES](#org504d34f)
+    9.  [Week 8 - Using Surveys (2)](#orgdb80b36)
+        1.  [Tuesday 12 March - Lab Session](#org71247a7)
+        2.  [Thursday 14 March - Lecture](#org6995c8f)
+        3.  [NO QUIZ THIS WEEK](#orge00f23c)
+        4.  [SURVEY MEASURES ASSIGNMENT (Part 1) DUE - Sunday 17 March @ 11.59pm](#org5062095)
+    10. [Week 9 - Content Analysis (1)](#org7f7a8cd)
+        1.  [Tuesday 19 March - Lab session](#org6f6e857)
+        2.  [Thursday 21 March - Lecture](#orgeef2ccb)
+        3.  [QUIZ 7 DUE - Friday 22 March @ 11.59pm](#orgbc02d3b)
+        4.  [ASSIGNMENT 5 DUE - Sunday 24 March @ 11.59pm](#orgd992c13)
+    11. [Week 10 - Content Analysis (2)](#orgb40f862)
+        1.  [Tuesday 26 March - Lab session](#orgb738ba1)
+        2.  [Thursday 28 March - Lecture](#org35b03e6)
+        3.  [QUIZ 8 DUE - Friday 29 March @ 11.59pm](#org5f62f48)
+        4.  [ASSIGNMENT 6 DUE - Sunday 31 March @ 11.59pm](#org900dbb3)
+    12. [Week 11 - Using experiments](#org88b2133)
+        1.  [Tuesday 02 April - Lab session](#org7a97b35)
+        2.  [Thursday 04 April - Lecture](#orgd01c3c7)
+        3.  [QUIZ 9 DUE - Friday 5 April @ 11.59pm](#orgb9ca3bb)
+        4.  [CONTENT ANALYSIS ASSIGNMENT (Part 1) DUE - Sunday 7 April @ 11.59pm](#orge55bee4)
+    13. [Week 12 - Calculation and Statistics Overview](#orgf628fd9)
+        1.  [Tuesday 09 April - Lab session](#org5afad7e)
+        2.  [Thursday 11 April - Lecture](#org8b65efd)
+    14. [Week 13 - Making inferences](#org6266046)
+        1.  [Tuesday 16 April - Lab Session](#org7a12f86)
+        2.  [Thursday 18 April - Lecture](#orge83df51)
+        3.  [QUIZ 10 DUE - Friday 19 April @ 11.59pm](#org90aab4e)
+        4.  [ASSIGNMENT 7 DUE - Sunday 21 April @ 11.59pm](#org47a177d)
+    15. [Week 14 - Data analysis](#org1678bd5)
+        1.  [Tuesday 23 April - Lab session](#org315ec1e)
+        2.  [Thursday 25 April - Lab session](#org77a7122)
+        3.  [QUIZ 11 DUE - Friday 26 April @ 11.59pm](#org4415479)
+        4.  [SURVERY DATA ANALYSIS (Part 2) DUE - Sunday 28 April @ 11.59pm](#orgcfe407f)
+    16. [Week 15 - Wrapping things up](#org0b4e35f)
+        1.  [Tuesday 30 April](#org0c3ea8f)
+    17. [Project Due Dates](#org2f3552e)
 
 nb#+OPTIONS: toc:nil
 
@@ -97,7 +97,7 @@ nb#+OPTIONS: toc:nil
 ## Spring 2024
 
 
-<a id="orgefb3ec1"></a>
+<a id="orgafda411"></a>
 
 ### Tuesday/Thursday 10.15-11.45am (Room: ASC 109)
 
@@ -116,12 +116,12 @@ nb#+OPTIONS: toc:nil
 ---
 
 
-<a id="orgecaa751"></a>
+<a id="org55a090f"></a>
 
 # IMPORTANT NOTICES
 
 
-<a id="org9e5491f"></a>
+<a id="org9ee2b23"></a>
 
 ## 1. HEALTH AND WELLNESS
 
@@ -141,7 +141,7 @@ nb#+OPTIONS: toc:nil
     **Please respect each other's choices on this issue**.
 
 
-<a id="orga3e0d54"></a>
+<a id="org40e6a77"></a>
 
 ## 2. ATTENDANCE, ZOOM AND CLASS RECORDINGS
 
@@ -295,12 +295,12 @@ on the web etc.
 started**
 
 
-<a id="org10a2c6e"></a>
+<a id="orga594b8f"></a>
 
 ## Week 1 - Course Introduction and Setup
 
 
-<a id="orgd45bb43"></a>
+<a id="orgb58554c"></a>
 
 ### Thursday 18 January
 
@@ -308,7 +308,7 @@ started**
 -   Setting up JupyterHub and RStudio
 
 
-<a id="org7fabe90"></a>
+<a id="orgf8c54af"></a>
 
 ## Week 2 - Overview of Social Science research
 
@@ -316,7 +316,7 @@ started**
     -   <https://r4ds.had.co.nz/explore-intro.html>
 
 
-<a id="org1dc0dcd"></a>
+<a id="orgba50844"></a>
 
 ### Tuesday 23 January
 
@@ -325,7 +325,7 @@ started**
 -   Quantitative approach to research
 
 
-<a id="orgf94fd38"></a>
+<a id="orgbf6c4d6"></a>
 
 ### Thursday 25 January - Lab Session
 
@@ -333,14 +333,14 @@ started**
 -   Using Markdown to communicate data analysis
 
 
-<a id="org701d408"></a>
+<a id="org0f984e5"></a>
 
 ### QUIZ 1 DUE - Friday 26 January @ 11.59pm
 
 -   Submit in Canvas
 
 
-<a id="org3281f68"></a>
+<a id="orge8aa948"></a>
 
 ## Week 3 - Ethics and Social Science Research
 
@@ -348,7 +348,7 @@ started**
     -   <https://r4ds.had.co.nz/workflow-basics.html>
 
 
-<a id="org0d853ad"></a>
+<a id="org3477c61"></a>
 
 ### Tuesday 30 January - Lab Session
 
@@ -357,28 +357,28 @@ started**
 -   Practice using Markdown and Notebooks
 
 
-<a id="org77fe514"></a>
+<a id="org3ef9d73"></a>
 
 ### Thursday 01 February - Lecture
 
 -   Ethics and Research
 
 
-<a id="org707b19a"></a>
+<a id="orgf9902b2"></a>
 
 ### QUIZ 2 DUE - Friday 3 February @ 11.59pm
 
 -   Submit in Canvas
 
 
-<a id="orgcc544c9"></a>
+<a id="orgeeb911d"></a>
 
 ### ASSIGNMENT 1 DUE - Sunday 4 February @ 11.59pm
 
 -   Submit in Jupyterhub
 
 
-<a id="org390a915"></a>
+<a id="orgbef252f"></a>
 
 ## Week 4 - Measurement (1)
 
@@ -386,35 +386,35 @@ started**
     -   <https://r4ds.had.co.nz/data-visualisation.html>
 
 
-<a id="org08fb5c9"></a>
+<a id="orgac0f6c8"></a>
 
 ### Tuesday 06 February - Lab Session
 
 -   The basics of plotting with `ggplot`
 
 
-<a id="org5c502f2"></a>
+<a id="org8563e97"></a>
 
 ### Thursday 08 February - Lecture
 
 -   Operationalization
 
 
-<a id="org73810f5"></a>
+<a id="orge62059e"></a>
 
 ### QUIZ 3 DUE - Friday 9 February @ 11.59pm
 
 -   Submit in Canvas
 
 
-<a id="orgee7cf4b"></a>
+<a id="orge2e3f59"></a>
 
 ### ASSIGNMENT 2 DUE - Sunday 11 February @ 11.59pm
 
 -   Submit in Jupyterhub
 
 
-<a id="org39b2690"></a>
+<a id="org29e4372"></a>
 
 ## Week 5 - Measurement (2)
 
@@ -424,7 +424,7 @@ started**
     -   <https://r4ds.had.co.nz/factors.html>
 
 
-<a id="orgac8d361"></a>
+<a id="org7a3c91d"></a>
 
 ### Tuesday 13 February - Lab Session
 
@@ -433,28 +433,28 @@ started**
 -   Visualization
 
 
-<a id="org1b78767"></a>
+<a id="orgdcbaab8"></a>
 
 ### Thursday 15 February - Lecture
 
 -   Measurement, Validity & Reliability
 
 
-<a id="orgf57aec6"></a>
+<a id="org437b199"></a>
 
 ### QUIZ 4 DUE - Friday 16 February @ 11.59pm
 
 -   Submit in Canvas
 
 
-<a id="orge8f8d9e"></a>
+<a id="org35a7c3a"></a>
 
-### ASSIGNMENT 4 DUE - Sunday 18 February @ 11.59pm
+### ASSIGNMENT 3 DUE - Sunday 18 February @ 11.59pm
 
 -   Submit in Jupyterhub
 
 
-<a id="orgae758c5"></a>
+<a id="org5d8129f"></a>
 
 ## Week 6 - Sampling
 
@@ -463,35 +463,35 @@ started**
     -   <https://r4ds.had.co.nz/exploratory-data-analysis.html>
 
 
-<a id="org554372d"></a>
+<a id="org4035d72"></a>
 
 ### Tuesday 20 February - Lab session
 
 -   Selecting and sampling from a data frame
 
 
-<a id="orga29f1e4"></a>
+<a id="org8a88a56"></a>
 
 ### Thursday 22 February - Lecture
 
 -   Sampling
 
 
-<a id="org1ba9964"></a>
+<a id="org5ba266c"></a>
 
 ### QUIZ 5 DUE - Friday 23 February @ 11.59pm
 
 -   Submit in Canvas
 
 
-<a id="orgd9e5269"></a>
+<a id="orgbd6b2a2"></a>
 
-### ASSIGNMENT 5 DUE - Sunday 25 February @ 11.59pm
+### ASSIGNMENT 4 DUE - Sunday 25 February @ 11.59pm
 
 -   Submit in Jupyterhub
 
 
-<a id="orgf8ef9cc"></a>
+<a id="orgaa94739"></a>
 
 ## Week 7 - Using Surveys (1)
 
@@ -501,38 +501,38 @@ started**
     -   <https://r4ds.had.co.nz/pipes.html>
 
 
-<a id="org71da165"></a>
+<a id="org5f9044b"></a>
 
 ### Tuesday 27 February - Lecture
 
 -   Using surveys
 
 
-<a id="org477df58"></a>
+<a id="orgebe415c"></a>
 
 ### Thursday 29 February - Lab Session
 
 -   Working on survey mini project
 
 
-<a id="org2bd3e57"></a>
+<a id="org95b064c"></a>
 
 ### QUIZ 6 DUE - Friday 1 March @ 11.59pm
 
 -   Submit in Canvas
 
 
-<a id="org88c1bf8"></a>
+<a id="org46f8119"></a>
 
 ## SPRING BREAK (2-10 March)
 
 
-<a id="org8c2fcb3"></a>
+<a id="org504d34f"></a>
 
 ### NO CLASSES
 
 
-<a id="orga60ff4d"></a>
+<a id="orgdb80b36"></a>
 
 ## Week 8 - Using Surveys (2)
 
@@ -542,7 +542,7 @@ started**
     -   <https://r4ds.had.co.nz/pipes.html>
 
 
-<a id="org8d986c6"></a>
+<a id="org71247a7"></a>
 
 ### Tuesday 12 March - Lab Session
 
@@ -550,26 +550,26 @@ started**
 -   Working on survey mini project
 
 
-<a id="org9835620"></a>
+<a id="org6995c8f"></a>
 
 ### Thursday 14 March - Lecture
 
 -   Using surveys (part 2)
 
 
-<a id="orgf168ed9"></a>
+<a id="orge00f23c"></a>
 
 ### NO QUIZ THIS WEEK
 
 
-<a id="orgfdf16cf"></a>
+<a id="org5062095"></a>
 
 ### SURVEY MEASURES ASSIGNMENT (Part 1) DUE - Sunday 17 March @ 11.59pm
 
 -   Submit in Canvas
 
 
-<a id="orgc5c7b12"></a>
+<a id="org7f7a8cd"></a>
 
 ## Week 9 - Content Analysis (1)
 
@@ -578,35 +578,35 @@ started**
     -   <https://r4ds.had.co.nz/graphics-for-communication.html>
 
 
-<a id="org28f9f5e"></a>
+<a id="org6f6e857"></a>
 
 ### Tuesday 19 March - Lab session
 
 -   Grouping/Aggregating data & More visualization
 
 
-<a id="org2089f09"></a>
+<a id="orgeef2ccb"></a>
 
 ### Thursday 21 March - Lecture
 
 -   Content Analysis (Part 1)
 
 
-<a id="orgdeca818"></a>
+<a id="orgbc02d3b"></a>
 
 ### QUIZ 7 DUE - Friday 22 March @ 11.59pm
 
 -   Submit in Canvas
 
 
-<a id="org59fe377"></a>
+<a id="orgd992c13"></a>
 
-### ASSIGNMENT 6 DUE - Sunday 24 March @ 11.59pm
+### ASSIGNMENT 5 DUE - Sunday 24 March @ 11.59pm
 
 -   Submit in Jupyterhub
 
 
-<a id="org93d0f1f"></a>
+<a id="orgb40f862"></a>
 
 ## Week 10 - Content Analysis (2)
 
@@ -615,7 +615,7 @@ started**
     -   <https://r4ds.had.co.nz/graphics-for-communication.html>
 
 
-<a id="org891bd58"></a>
+<a id="orgb738ba1"></a>
 
 ### Tuesday 26 March - Lab session
 
@@ -624,35 +624,35 @@ started**
 -   Working on content analysis mini project
 
 
-<a id="orgcc6fdaf"></a>
+<a id="org35b03e6"></a>
 
 ### Thursday 28 March - Lecture
 
 -   Content Analysis (Part 2)
 
 
-<a id="org9169f54"></a>
+<a id="org5f62f48"></a>
 
 ### QUIZ 8 DUE - Friday 29 March @ 11.59pm
 
 -   Submit in Canvas
 
 
-<a id="org87ae24b"></a>
+<a id="org900dbb3"></a>
 
-### ASSIGNMENT 7 DUE - Sunday 31 March @ 11.59pm
+### ASSIGNMENT 6 DUE - Sunday 31 March @ 11.59pm
 
 -   Submit in Jupyterhub
 
 
-<a id="org4cbf7ad"></a>
+<a id="org88b2133"></a>
 
 ## Week 11 - Using experiments
 
 -   READINGS: `S&R` Ch. 6
 
 
-<a id="org7363273"></a>
+<a id="org7a97b35"></a>
 
 ### Tuesday 02 April - Lab session
 
@@ -661,125 +661,125 @@ started**
 pp
 
 
-<a id="orga90d2de"></a>
+<a id="orgd01c3c7"></a>
 
 ### Thursday 04 April - Lecture
 
 -   Experimental design
 
 
-<a id="orgf0f8848"></a>
+<a id="orgb9ca3bb"></a>
 
 ### QUIZ 9 DUE - Friday 5 April @ 11.59pm
 
 -   Submit in Canvas
 
 
-<a id="orgcdf46d2"></a>
+<a id="orge55bee4"></a>
 
 ### CONTENT ANALYSIS ASSIGNMENT (Part 1) DUE - Sunday 7 April @ 11.59pm
 
 -   Submit in Canvas
 
 
-<a id="orge9628a6"></a>
+<a id="orgf628fd9"></a>
 
 ## Week 12 - Calculation and Statistics Overview
 
 -   READINGS: `S&R` Chs. 8 (pp. 182-194) & 9 (pp. 201-225)
 
 
-<a id="org0ba649b"></a>
+<a id="org5afad7e"></a>
 
 ### Tuesday 09 April - Lab session
 
 -   Descriptive statistics and intro to models
 
 
-<a id="orgbe36d97"></a>
+<a id="org8b65efd"></a>
 
 ### Thursday 11 April - Lecture
 
 -   Types of statistics, Hypothesis testing and types of error
 
 
-<a id="org78b20d9"></a>
+<a id="org6266046"></a>
 
 ## Week 13 - Making inferences
 
 -   READINGS: `S&R` Chs. 8 (pp. 195-202) & 9 (pp. 226-275)
 
 
-<a id="org9410950"></a>
+<a id="org7a12f86"></a>
 
 ### Tuesday 16 April - Lab Session
 
 -   Working on Content Analysis project
 
 
-<a id="org2294ff9"></a>
+<a id="orge83df51"></a>
 
 ### Thursday 18 April - Lecture
 
 -   Inferential statistics and thinking about correlation and causation
 
 
-<a id="org3fb56aa"></a>
+<a id="org90aab4e"></a>
 
 ### QUIZ 10 DUE - Friday 19 April @ 11.59pm
 
 -   Submit in Canvas
 
 
-<a id="orgc8272d6"></a>
+<a id="org47a177d"></a>
 
-### ASSIGNMENT 8 DUE - Sunday 21 April @ 11.59pm
+### ASSIGNMENT 7 DUE - Sunday 21 April @ 11.59pm
 
 -   Submit in Jupyterhub
 
 
-<a id="org002cbe9"></a>
+<a id="org1678bd5"></a>
 
 ## Week 14 - Data analysis
 
 
-<a id="orgdbc50dc"></a>
+<a id="org315ec1e"></a>
 
 ### Tuesday 23 April - Lab session
 
 -   Working on data analysis from content analysis mini project
 
 
-<a id="orgbeb2c60"></a>
+<a id="org77a7122"></a>
 
 ### Thursday 25 April - Lab session
 
 -   Working on data analysis from content analysis mini project
 
 
-<a id="org62cc9b6"></a>
+<a id="org4415479"></a>
 
 ### QUIZ 11 DUE - Friday 26 April @ 11.59pm
 
 -   Submit in Canvas
 
 
-<a id="org7046695"></a>
+<a id="orgcfe407f"></a>
 
 ### SURVERY DATA ANALYSIS (Part 2) DUE - Sunday 28 April @ 11.59pm
 
 
-<a id="org6c46860"></a>
+<a id="org0b4e35f"></a>
 
 ## Week 15 - Wrapping things up
 
 
-<a id="orgbcbb55f"></a>
+<a id="org0c3ea8f"></a>
 
 ### Tuesday 30 April
 
 
-<a id="org2502598"></a>
+<a id="org2f3552e"></a>
 
 ## Project Due Dates
 
